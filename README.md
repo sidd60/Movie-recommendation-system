@@ -78,7 +78,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
  This project is licensed under the MIT License.   
 
 ## Contact
-For any inquiries, please contact **Vedant Pimple** at your vedantpimple1775@gmail.com
+For any inquiries, please contact **Siddhant Pimple** at your siddhantpimple20@gmail.com
 
 
 
